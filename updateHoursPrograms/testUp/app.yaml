@@ -1,0 +1,7 @@
+runtime: php7
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /.*
+  script: updatehours.php

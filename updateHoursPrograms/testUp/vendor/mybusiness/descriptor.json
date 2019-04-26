@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "downloadUrl": "/downloads/mybusiness/v4/0/php/1.1.4/google-mybusiness-v4-rev0-php-1.1.4-src.zip", 
+      "path": "", 
+      "type": "source", 
+      "timestamp": "2018-04-12 16:10"
+    }
+  ], 
+  "ownerDomain": "google.com", 
+  "canonicalName": "My Business", 
+  "maven": null, 
+  "dependencies": [
+    {
+      "version": "1.1.1", 
+      "downloadLink": "https://github.com/google/google-api-php-client/releases", 
+      "name": "Google API PHP Client", 
+      "environments": [
+        "*"
+      ]
+    }
+  ], 
+  "ownerName": "Google", 
+  "id": "mybusiness:v4", 
+  "language_version": "1.1.4", 
+  "kind": "discovery#directoryItem", 
+  "moduleName": "com.google", 
+  "name": "mybusiness", 
+  "language": "php", 
+  "title": "Google My Business API", 
+  "version": "v4", 
+  "revision": 0, 
+  "modulePath": "com/google"
+}
