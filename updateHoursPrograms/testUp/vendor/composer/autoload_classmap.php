@@ -91,6 +91,7 @@ return array(
     'Nette\\PhpGenerator\\ClassType' => $vendorDir . '/nette/php-generator/src/PhpGenerator/ClassType.php',
     'Nette\\PhpGenerator\\Closure' => $vendorDir . '/nette/php-generator/src/PhpGenerator/Closure.php',
     'Nette\\PhpGenerator\\Constant' => $vendorDir . '/nette/php-generator/src/PhpGenerator/Constant.php',
+    'Nette\\PhpGenerator\\Dumper' => $vendorDir . '/nette/php-generator/src/PhpGenerator/Dumper.php',
     'Nette\\PhpGenerator\\Factory' => $vendorDir . '/nette/php-generator/src/PhpGenerator/Factory.php',
     'Nette\\PhpGenerator\\GlobalFunction' => $vendorDir . '/nette/php-generator/src/PhpGenerator/GlobalFunction.php',
     'Nette\\PhpGenerator\\Helpers' => $vendorDir . '/nette/php-generator/src/PhpGenerator/Helpers.php',
